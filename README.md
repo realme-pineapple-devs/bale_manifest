@@ -1,2 +1,16 @@
-# bale_manifest
-Manifest for Realme GT Neo6 custom rom's
+# bale manifest
+Manifest for Realme GT Neo6 custom rom's.
+
+#  How to use this file ?
+
+Clone this repo in rom source.
+
+For YAAP 15 based rom's
+    
+    git clone https://github.com/realme-pineapple-devs/bale_manifest.git .repo/local_manifests  -b yaap-15
+
+------------------------------------------------------
+
+You can modify the dependencies and packages according to your wish.
+
+------------------------------------------------------
