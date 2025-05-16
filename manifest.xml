@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote name="git-hub" fetch="https://github.com/" />
+    <remote name="gitlab" fetch="https://gitlab.com/" />
+
+    <project path="device/realme/bale" name="realme-pineapple-devs/android_device_realme_bale" remote="git-hub" revision="15" />
+    <project path="device/realme/sm8635-common" name="realme-pineapple-devs/device_realme_sm8635-common" remote="git-hub" revision="15" />
+    <project path="kernel/realme/sm8650" name="realme-pineapple-devs/kernel_realme_sm8650" remote="git-hub" clone-depth="1" revision="15" />
+    <project path="kernel/realme/sm8650-modules" name="realme-pineapple-devs/kernel_realme_sm8650-modules" remote="git-hub" revision="15" />
+    <project path="kernel/realme/sm8650-devicetrees" name="realme-pineapple-devs/kernel_realme_sm8650-devicetrees" remote="git-hub" revision="15" />
+    <project path="hardware/oplus" name="yaap/hardware_oplus" remote="git-hub" revision="fifteen" />
+    <project path="packages/apps/TouchGestures" name="yaap/packages_apps_TouchGestures" remote="git-hub" revision="fifteen" />
+
+</manifest>
